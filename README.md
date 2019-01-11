@@ -7,7 +7,7 @@
 npm install camel-case-util --save
 ```
 ### usage
-```
+```javascript
 const util = require('camel-case-util');
 or
 import util from 'camel-case-util'
