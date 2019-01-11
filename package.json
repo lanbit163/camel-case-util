@@ -1,0 +1,37 @@
+{
+  "name": "camel-case-util",
+  "version": "0.5.0",
+  "description": "Convert a dash/underscore separated string to camelCase or reverse.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanbit163/camel-case-util.git"
+  },
+  "keywords": [
+    "camelcase",
+    "camel-case",
+    "camel",
+    "case",
+    "dash",
+    "underscore",
+    "string",
+    "convert",
+    "pascalcase",
+    "pascal-case",
+    "驼峰命名",
+    "驼峰",
+    "下划线",
+    "中划线",
+    "减号",
+    "互换"
+  ],
+  "author": "lanbit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanbit163/camel-case-util/issues"
+  },
+  "homepage": "https://github.com/lanbit163/camel-case-util#readme"
+}
