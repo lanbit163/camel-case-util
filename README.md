@@ -1,5 +1,5 @@
 # camel-case-util
->Convert a dash/underscore separated string to camelCase or reverse.
+>Convert a dash/underscore separated string to camelCase or vice versa.
 
 >驼峰命名和下划线/中划线互转
 ### install
