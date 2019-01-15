@@ -1,6 +1,6 @@
 {
   "name": "camel-case-util",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "Convert a dash/underscore separated string to camelCase or reverse.",
   "main": "index.js",
   "scripts": {
